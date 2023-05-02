@@ -3,4 +3,4 @@ Intro to Github
 
 Hi. [wave]
 
-Kida here. I'm learning python.
+Hawa here. I'm learning python.
